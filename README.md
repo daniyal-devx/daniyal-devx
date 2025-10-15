@@ -60,7 +60,7 @@ I'm a passionate Data Science student with expertise in C++ programming, web dev
 Let's connect and collaborate! 
 
 - 📧 **Email:** [daniyalusman.dev@gmail.com](mailto:daniyalusman.dev@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/daniyalusman-dev)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/daniyalusman-dev)
 - 📱 **Phone:** +92-319-4582732
 - 🏠 **Location:** Lahore, Pakistan
 ## 🗣️ Languages
